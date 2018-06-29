@@ -1,1 +1,1 @@
-# MOVED TO [GITLAB](https://github.com/yayaka/Cocona)
+# MOVED TO [GITLAB](https://gitlab.com/yayaka/Cocona)
